@@ -1,5 +1,5 @@
 # FriendFinder
-FriendFinder is a full-stack web application built with node.js, express, and chosen. This built to match compatible personalities amongst friends.
+FriendFinder is a web application built with node.js, express, and chosen. This built to match compatible personalities amongst friends.
 
 ## Live Link
 - https://friendship-finder.herokuapp.com/
@@ -10,7 +10,7 @@ FriendFinder is a full-stack web application built with node.js, express, and ch
 3. Clicking `Submit` will give you a friendship reccomendation!
 
 ## Live Example
-<img src="https://github.com/ykeanu/mySQL-Bamazon/blob/master/media/livedemo.gif?raw=true" width="85%" height="85%">
+<img src="https://github.com/ykeanu/FriendFinder/blob/master/app/media/livedemo-friendshipfinder.gif?raw=true" width="85%" height="85%">
 
 ## Built With
 - Bootstrap
