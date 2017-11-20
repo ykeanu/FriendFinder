@@ -1,4 +1,4 @@
-const friends = [
+var friends = [
     {
         name: "Lonzo Ball",
         photo: "http://www.uclabruins.com/images/2016/7/25/00_Ball.jpg?width=300",
