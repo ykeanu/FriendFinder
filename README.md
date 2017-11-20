@@ -1,5 +1,5 @@
 # FriendFinder
-FriendFinder is a web application built with node.js, express, and chosen. This built to match compatible personalities amongst friends.
+FriendFinder is a full-stack web application built with node.js, express, and chosen. This was built to match compatible personalities and to spark meaningful friendships with other programmers (&& to sharpen my skills as a developer).
 
 ## Live Link
 - https://friendship-finder.herokuapp.com/
