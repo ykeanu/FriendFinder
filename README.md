@@ -19,7 +19,7 @@ FriendFinder is a full-stack web application built with node.js, express, and ch
 - Node Package Manager (npm)
 	- express
 	- body-parser (middleware)
-	- chosen
+	- chosen 
 
 ## Directory structure
 ```none            
